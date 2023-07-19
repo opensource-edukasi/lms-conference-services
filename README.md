@@ -1,1 +1,1 @@
-# lms-conference-services
+# lms-conference-service
